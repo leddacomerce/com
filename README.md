@@ -1,19 +1,4 @@
 # com
-Санкт-Петербургское государственное бюджетное профессиональное образовательное учреждение
-«Колледж банковского дела и информационных систем»
-
-					УТВЕРЖДАЮ
-					Заместитель директора по УПР
-		М.С.Афанасьева
-					    .   .2021
-
-
-КВАЛИФИКАЦИОННЫЙ ЭКЗАМЕН
-ПМ 01. УЧАСТИЕ В ПЛАНИРОВАНИИ И ОРГАНИЗАЦИИ РАБОТ
-ПО ОБЕСПЕЧЕНИЮ ЗАЩИТЫ ОБЪЕКТА
-Специальность 10.02.01 «Организация и технология защиты информации»
-Группа 04 74-20
-Вариант 17
 
 ИСХОДНЫЕ ДАННЫЕ
 
@@ -247,4 +232,5 @@ KINGSTON DataTraveler G4 16ГБ, USB3.0.
  ![image](https://user-images.githubusercontent.com/108425644/176505285-aa8f8ec5-59dd-4a4d-911b-c74e9dcd3e7c.png)
 
 
-
+https://edu-nv.ru/blog/entry/plany-vnutrennikh-proverok-zashchita-informatsii-i-ne-tolko
+https://www.georgievsk.ru/administr/stradm/otdel_it/zaschita_PDn/plan_meropr_poZI_2015.pdf
